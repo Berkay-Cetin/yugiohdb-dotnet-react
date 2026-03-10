@@ -1,0 +1,11 @@
+/home/local/workspace/tryouts/yugioh/yugioh-db/Yugioh.Domain/bin/Debug/net8.0/Yugioh.Domain.deps.json
+/home/local/workspace/tryouts/yugioh/yugioh-db/Yugioh.Domain/bin/Debug/net8.0/Yugioh.Domain.dll
+/home/local/workspace/tryouts/yugioh/yugioh-db/Yugioh.Domain/bin/Debug/net8.0/Yugioh.Domain.pdb
+/home/local/workspace/tryouts/yugioh/yugioh-db/Yugioh.Domain/obj/Debug/net8.0/Yugioh.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/local/workspace/tryouts/yugioh/yugioh-db/Yugioh.Domain/obj/Debug/net8.0/Yugioh.Domain.AssemblyInfoInputs.cache
+/home/local/workspace/tryouts/yugioh/yugioh-db/Yugioh.Domain/obj/Debug/net8.0/Yugioh.Domain.AssemblyInfo.cs
+/home/local/workspace/tryouts/yugioh/yugioh-db/Yugioh.Domain/obj/Debug/net8.0/Yugioh.Domain.csproj.CoreCompileInputs.cache
+/home/local/workspace/tryouts/yugioh/yugioh-db/Yugioh.Domain/obj/Debug/net8.0/Yugioh.Domain.dll
+/home/local/workspace/tryouts/yugioh/yugioh-db/Yugioh.Domain/obj/Debug/net8.0/refint/Yugioh.Domain.dll
+/home/local/workspace/tryouts/yugioh/yugioh-db/Yugioh.Domain/obj/Debug/net8.0/Yugioh.Domain.pdb
+/home/local/workspace/tryouts/yugioh/yugioh-db/Yugioh.Domain/obj/Debug/net8.0/ref/Yugioh.Domain.dll

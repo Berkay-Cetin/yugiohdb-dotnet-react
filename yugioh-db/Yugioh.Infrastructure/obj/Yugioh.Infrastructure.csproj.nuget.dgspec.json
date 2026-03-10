@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/local/workspace/tryouts/yugioh/yugioh-db/Yugioh.Infrastructure/Yugioh.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/home/local/workspace/tryouts/yugioh/yugioh-db/Yugioh.Domain/Yugioh.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/local/workspace/tryouts/yugioh/yugioh-db/Yugioh.Domain/Yugioh.Domain.csproj",
+        "projectName": "Yugioh.Domain",
+        "projectPath": "/home/local/workspace/tryouts/yugioh/yugioh-db/Yugioh.Domain/Yugioh.Domain.csproj",
+        "packagesPath": "/home/local/.nuget/packages/",
+        "outputPath": "/home/local/workspace/tryouts/yugioh/yugioh-db/Yugioh.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/local/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.124/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/local/workspace/tryouts/yugioh/yugioh-db/Yugioh.Infrastructure/Yugioh.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/local/workspace/tryouts/yugioh/yugioh-db/Yugioh.Infrastructure/Yugioh.Infrastructure.csproj",
+        "projectName": "Yugioh.Infrastructure",
+        "projectPath": "/home/local/workspace/tryouts/yugioh/yugioh-db/Yugioh.Infrastructure/Yugioh.Infrastructure.csproj",
+        "packagesPath": "/home/local/.nuget/packages/",
+        "outputPath": "/home/local/workspace/tryouts/yugioh/yugioh-db/Yugioh.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/local/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/local/workspace/tryouts/yugioh/yugioh-db/Yugioh.Domain/Yugioh.Domain.csproj": {
+                "projectPath": "/home/local/workspace/tryouts/yugioh/yugioh-db/Yugioh.Domain/Yugioh.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.124/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Yugioh.Application/1.0.0": {
+        "dependencies": {
+          "Yugioh.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Yugioh.Application.dll": {}
+        }
+      },
+      "Yugioh.Domain/1.0.0": {
+        "runtime": {
+          "Yugioh.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yugioh.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Yugioh.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
