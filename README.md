@@ -1,11 +1,13 @@
 # YugiohDB — .NET + React
 
-A full-stack Yu-Gi-Oh! card search application built with .NET and React TypeScript.
-
 ![Tech Stack](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat&logo=dotnet)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat&logo=typescript)
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat&logo=vite)
+
+A full-stack Yu-Gi-Oh! card search application built with .NET and React TypeScript.
+
+![Demo](demo.gif)
 
 ## Features
 
